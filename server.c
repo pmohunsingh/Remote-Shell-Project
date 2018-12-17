@@ -1,6 +1,6 @@
 // Remote Shell Project
 // Name: Renaisa Wahed, Priska Mohunsingh
-//  Server code
+// Server code
 
  #include <unistd.h>
  #include <stdio.h> //this file contains declarations used in most input and output
